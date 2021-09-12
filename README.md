@@ -4,6 +4,6 @@
 - 📫 How to reach me <a href="mailto:abhinavkum4r@gmail.com" >G-mail</a>
 
 <!---
-iam-abhinav/iam-abhinav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abhin4vKumar/Abhin4vKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
