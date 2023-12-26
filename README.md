@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhin4vKumar&label=Profile%20views&color=0e75b6&style=flat" alt="Abhin4vKumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhin4vKumar" alt="Abhin4vKumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhin4vKumar&theme=monokai" alt="Abhin4vKumar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/AbhinavKum4r" target="blank"><img src="https://img.shields.io/twitter/follow/AbhinavKum4r?logo=twitter&style=for-the-badge" alt="AbhinavKum4r" /></a> </p>
 
@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhin4vKumar&show_icons=true&locale=en&layout=compact" alt="Abhin4vKumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhin4vKumar&show_icons=true&locale=en" alt="Abhin4vKumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhin4vKumar&show_icons=true&locale=en&theme=radical" alt="Abhin4vKumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhin4vKumar&" alt="Abhin4vKumar" /></p>
