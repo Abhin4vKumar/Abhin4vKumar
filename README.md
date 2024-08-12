@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/AbhinavKum4r" target="blank"><img src="https://img.shields.io/twitter/follow/AbhinavKum4r?logo=twitter&style=for-the-badge" alt="AbhinavKum4r" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [AbhinavKr.co](http://abhinavkr.co/)
+- 👨‍💻 All of my projects are available at [AbhinavKr.me](http://abhinavkr.me/)
 
 - 💬 Ask me about **Full-Stack Development / Competitive Programming**
 
